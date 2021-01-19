@@ -5,7 +5,7 @@
 
 ## You can check out our Instagram Page for this project 
 
-# I.G handel : @dynamic__geek
+# I.G handel : [@dynamic__geek](https://www.instagram.com/dynamic__geek/?hl=en)
 
 # How this works you can check this video 
 
