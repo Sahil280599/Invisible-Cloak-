@@ -4,7 +4,7 @@ import numpy as np
 import cv2
 import time
 
-print("HELLO FRANDSSSSSSSSSSSS")
+print("HELLO FRANDSSSSSSSSSSSS ENJOY HARRY POTTER CLOAK ")
 
 # Capturing Webcam Feed
 #cap = cv2.VideoCapture('http://192.168.43.200:8080/video?640x480')
