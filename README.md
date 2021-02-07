@@ -1,6 +1,6 @@
-# Invisible Cloak Project  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+# Harry Potter Invisible Cloak Project  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-# For Harry Potter Fans- 
+
 
 ![front page](https://user-images.githubusercontent.com/55251741/105021800-fba92200-5a6e-11eb-9839-42f04ce7ca0b.png)
 
